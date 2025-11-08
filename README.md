@@ -1,4 +1,4 @@
 # demo
 This is my Git repository
-</b>
+<br>
 Author-Aryan
